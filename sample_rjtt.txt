@@ -1,0 +1,27 @@
+[general]
+afcad_path = I:\P3D\Addon Scenery\FSAC_RJTT2_FSX\scenery\RJTT_ADEP3_SEN_SEI_SAN.bgl
+
+
+
+[gate 51]
+nopassengerstairs = 1
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 8
+hasjetway = 1
+pushback = 3
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 60.0
+radiusleft = 30.0
+radiusright = 24.0
+loadertype = 3 3
+airlinecodes = SNJ,ADO,ANA
+type = 9
+usercustomized = 1
+parkingsystem_objectposition = 35.5544634407419 139.786459956118 -29.6300000000004 4.06999999999998
+parkingsystem_stopposition = 35.5546909679552 139.786302334391
+pushback_pos = 35.5546106564745 139.786522056695 -120
+stairs_front_pos = 35.5547559615895 139.786557532585 -75
+this_parking_pos = 35.5547880746685 139.78623369453 150
+
+
