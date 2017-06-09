@@ -1,5 +1,10 @@
+; GSX Airport setting file
+; RJTT Haneda 
+; This setting using only TechnoBrain FSAC RJTT2.
+; 
+
 [general]
-afcad_path = I:\P3D\Addon Scenery\FSAC_RJTT2_FSX\scenery\RJTT_ADEP3_SEN_SEI_SAN.bgl
+afcad_path =
 
 
 
