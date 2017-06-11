@@ -1,0 +1,241 @@
+[general]
+afcad_path = 
+
+[gate 1]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 1
+pushback = 3
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 46.0
+radiusleft = 29.0
+radiusright = 29.0
+loadertype = 3 3
+airlinecodes = KAL,AAR,CAL,CES,CBJ,ASV
+type = 9
+usercustomized = 1
+baggage_loader_front_pos = 34.7955231324589 138.180694687882 72
+baggage_loader_rear_pos = 34.7958712486015 138.180737355034 157
+baggage_train_front_pos = 34.7955713865101 138.180630263759 22
+baggage_train_rear_pos = 34.7955830279039 138.180598252151 22
+parkingsystem_objectposition = 34.7953211863101 138.18076927429 22 0
+parkingsystem_stopposition = 34.7954962431826 138.180855401837
+
+[gate 2]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 1
+pushback = 3
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 72.0
+radiusleft = 36.0
+radiusright = 28.8
+loadertype = 3 3
+airlinecodes = ANA,ANK,JAL,FDA,KAL,AAR,CAL,CES,CBJ,ASV
+type = 10
+pushback_pos = 34.7954648738374 138.180218455927 -68
+baggage_loader_front_pos = 34.7958329764886 138.179893505016 22.6000000000004
+baggage_loader_rear_pos = 34.7961434349181 138.180016993314 154.4
+baggage_train_front_pos = 34.7957565884972 138.179859507405 22
+baggage_train_rear_pos = 34.79576805264 138.179830944501 22
+stairs_front_pos = 34.7954585005823 138.18038961561 -23
+stairs_middle_pos = 34.7955592650216 138.180533982961 -38
+stairs_rear_pos = 34.7959139292205 138.180630785635 -113
+this_parking_pos = 34.7957505050899 138.180195712095 -158
+parkingsystem_objectposition = 34.795502893432 138.180073705614 22 0
+parkingsystem_stopposition = 34.7956452755975 138.18014384252
+usercustomized = 1
+
+[gate 3]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 1
+pushback = 3
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 50.0
+radiusleft = 34.75
+radiusright = 34.75
+loadertype = 3 3
+airlinecodes = FDA,ANA,JAL,ANK
+type = 9
+baggage_loader_front_pos = 34.7959418611823 138.179227698932 22
+baggage_loader_rear_pos = 34.7963984006446 138.179303768107 157
+baggage_train_front_pos = 34.7959991039785 138.179117230756 22
+baggage_train_rear_pos = 34.7960137508013 138.179087869452 22
+stairs_rear_pos = 34.7962005368825 138.179997030259 -113
+parkingsystem_objectposition = 34.7957586810776 138.179350080364 22 0
+parkingsystem_stopposition = 34.7958875285239 138.179413451311
+usercustomized = 1
+
+[gate 4]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 3
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 36.0
+radiusleft = 24.0
+radiusright = 24.0
+loadertype = 3 3
+airlinecodes = ANA,FDA,AKX
+type = 8
+pushback_pos = 34.7959527296338 138.179080471178 -158
+parkingsystem_objectposition = 34.7959635522056 138.1787880456 22 0
+parkingsystem_stopposition = 34.7961489832862 138.17887937124
+usercustomized = 1
+baggage_loader_front_pos = 34.796119995697 138.178705901258 22
+baggage_loader_rear_pos = 34.796534991244 138.178783378102 157
+baggage_train_front_pos = 34.7961782397654 138.178599290495 22
+baggage_train_rear_pos = 34.7961497638966 138.178547630009 22
+stairs_front_pos = 34.7960158724471 138.178989680473 -18.6000000000003
+stairs_middle_pos = 34.796076884343 138.179145508912 -38
+stairs_rear_pos = 34.7963539337344 138.179271114125 -113
+
+[gate 5]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 3
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 46.0
+radiusleft = 23.0
+radiusright = 18.4
+loadertype = 3 3
+airlinecodes = 
+type = 9
+usercustomized = 1
+pushback_pos = 34.7960660240959 138.178385658363 -69.3000000000001
+baggage_loader_front_pos = 34.796442318754 138.178200691034 112
+baggage_loader_rear_pos = 34.796601168167 138.178232096621 112
+baggage_train_front_pos = 34.7962819172101 138.178281038493 22
+baggage_train_rear_pos = 34.796292528751 138.178257950515 22
+stairs_front_pos = 34.7962282298535 138.178745491411 -68
+stairs_middle_pos = 34.7962747245233 138.178778092411 -68
+parkingsystem_objectposition = 34.7960533597522 138.178356224298 22 0
+parkingsystem_stopposition = 34.7961948037369 138.178425814876
+
+[gate 7]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 3
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 36.0
+radiusleft = 18.0
+radiusright = 14.4
+loadertype = 3 3
+airlinecodes = 
+type = 8
+parkingsystem_objectposition = 34.7971317180511 138.177524443793 22 0
+parkingsystem_stopposition = 34.7972493367359 138.1775824864
+usercustomized = 1
+baggage_loader_front_pos = 34.7973370371122 138.177392382794 22
+baggage_loader_rear_pos = 34.797612347615 138.177530409295 157
+baggage_train_front_pos = 34.797327716174 138.177479274135 22
+baggage_train_rear_pos = 34.7973397120655 138.177440364067 22
+stairs_front_pos = 34.7971872308928 138.177785257673 -68
+stairs_middle_pos = 34.797261506512 138.177801906944 -38
+stairs_rear_pos = 34.7974818993022 138.177965880236 -113
+
+[gate 8]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 3
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 36.0
+radiusleft = 18.0
+radiusright = 14.4
+loadertype = 3 3
+airlinecodes = 
+type = 8
+pushback_pos = 34.7972543252463 138.177222484131 -68
+baggage_train_front_pos = 34.7973853516219 138.176814761606 112
+baggage_train_rear_pos = 34.7973662891962 138.176807782115 112
+parkingsystem_objectposition = 34.7972643445865 138.177104184667 22 0
+parkingsystem_stopposition = 34.7973889405744 138.177165566898
+usercustomized = 1
+baggage_loader_front_pos = 34.7976020592873 138.176899737343 112
+baggage_loader_rear_pos = 34.7976336985002 138.176917304512 112
+stairs_front_pos = 34.7973679459359 138.177408288523 -68
+stairs_middle_pos = 34.7974075101719 138.177448368061 -68
+stairs_rear_pos = 34.7976151055277 138.177550809205 -113
+
+[parking 601]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 3
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 20.0
+radiusleft = 10.0
+radiusright = 8.0
+loadertype = 3 3
+airlinecodes = 
+type = 2
+usercustomized = 1
+
+[parking 602]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 3
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 20.0
+radiusleft = 10.0
+radiusright = 8.0
+loadertype = 3 3
+airlinecodes = 
+type = 2
+usercustomized = 1
+
+[parking 603]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 3
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 16.0
+radiusleft = 8.0
+radiusright = 6.4
+loadertype = 3 3
+airlinecodes = 
+type = 2
+usercustomized = 1
+
+[parking 604]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 3
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 16.0
+radiusleft = 8.0
+radiusright = 6.4
+loadertype = 3 3
+airlinecodes = 
+type = 2
+usercustomized = 1
+
