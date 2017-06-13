@@ -1,0 +1,501 @@
+; GSX Airport setting file
+; RJFR Kitakyusyu
+; This setting using only gege RJFR.
+; 
+
+[general]
+afcad_path =
+
+[gate 0]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 1
+parkingsystem = 1
+hasjetway = 0
+pushback = 3
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 65.0
+radiusleft = 34.0
+radiusright = 34.0
+loadertype = 3 3
+airlinecodes = NCA KAL GTI
+type = 5
+usercustomized = 1
+parkingsystem_objectposition = 33.8411164523601 131.031858365479 80.3500061035156 0
+parkingsystem_stopposition = 33.8411451065675 131.032063422767
+baggage_loader_front_pos = 33.8414766442612 131.031993073734 140.650006103515
+baggage_loader_rear_pos = 33.8415306807348 131.032562986643 -150.849993896484
+baggage_train_front_pos = 33.8413146540346 131.031641478845 -9.6499938964844
+baggage_train_rear_pos = 33.8413203112274 131.031680878514 -9.6499938964844
+stairs_front_pos = 33.8408841922347 131.031978031861 35.3500061035156
+this_parking_pos = 33.8411726956801 131.032258265467 -99.6499938964844
+
+[gate 1]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 1
+parkingsystem = 1
+hasjetway = 1
+pushback = 3
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 60.0
+radiusleft = 30.0
+radiusright = 24.0
+loadertype = 3 3
+airlinecodes = SFJ JAL FDA SKY JNA GCR TWB KEA JJA CSN
+type = 9
+parkingsystem_objectposition = 33.840611016025 131.031929231373 80.3500061035156 0
+parkingsystem_stopposition = 33.8406441738627 131.03216602766
+usercustomized = 1
+pushback_pos = 33.8405339312138 131.031995299766 -9.6499938964844
+baggage_loader_front_pos = 33.8408673960358 131.031927129112 80.3500061035156
+baggage_loader_rear_pos = 33.8408965607069 131.031921405671 80.3500061035156
+baggage_train_front_pos = 33.840817406923 131.032027402301 80.3500061035156
+baggage_train_rear_pos = 33.8408476260491 131.032021244656 80.3500061035156
+stairs_rear_pos = 33.8404401708674 131.03257756375 -54.6499938964844
+this_parking_pos = 33.8406629371208 131.032298666309 -99.6499938964844
+
+[gate 2]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 1
+parkingsystem = 1
+hasjetway = 1
+pushback = 3
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 60.0
+radiusleft = 30.0
+radiusright = 24.0
+loadertype = 3 3
+airlinecodes = SFJ JAL FDA SKY JNA GCR TWB KEA JJA CSN
+type = 9
+parkingsystem_objectposition = 33.8401671764785 131.032015720639 80.3500061035156 0
+parkingsystem_stopposition = 33.840200938823 131.032256776178
+usercustomized = 1
+baggage_loader_front_pos = 33.8402510105335 131.032120233542 80.3500061035156
+baggage_train_front_pos = 33.8404212843992 131.032327735324 80.3500061035156
+baggage_train_rear_pos = 33.8404525254887 131.032315890143 80.3500061035156
+this_parking_pos = 33.8402197323065 131.032389627164 -99.6499938964844
+
+[gate 3]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 1
+parkingsystem = 1
+hasjetway = 1
+pushback = 3
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 80.0
+radiusleft = 40.0
+radiusright = 32.0
+loadertype = 3 3
+airlinecodes = SFJ JAL FDA SKY JNA GCR TWB KEA JJA CSN
+type = 10
+parkingsystem_objectposition = 33.8395770692206 131.032102296639 80.3500061035156 0
+parkingsystem_stopposition = 33.8396155768763 131.03237679572
+usercustomized = 1
+baggage_loader_front_pos = 33.8398242299169 131.032340675493 80.2500061035156
+baggage_loader_rear_pos = 33.8398598867457 131.032333058852 80.3500061035156
+baggage_train_front_pos = 33.839717952825 131.0322995149 80.3500061035156
+baggage_train_rear_pos = 33.8397511226435 131.032288372745 80.3500061035156
+stairs_rear_pos = 33.8393633149904 131.032856386806 -54.6499938964844
+this_parking_pos = 33.8396343099652 131.032509219157 -99.6499938964844
+
+[gate 4]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 1
+parkingsystem = 1
+hasjetway = 1
+pushback = 3
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 60.0
+radiusleft = 30.0
+radiusright = 24.0
+loadertype = 3 3
+airlinecodes = SFJ JAL FDA SKY JNA GCR TWB KEA JJA CSN
+type = 9
+parkingsystem_objectposition = 33.8389971204636 131.032258105099 80.3500061035156 0
+parkingsystem_stopposition = 33.8390305502058 131.032496815273
+usercustomized = 1
+pushback_pos = 33.8388673008316 131.032313437966 -9.6499938964844
+baggage_loader_front_pos = 33.8391609530865 131.032473118795 80.3500061035156
+baggage_train_front_pos = 33.839229317277 131.032557484068 80.3500061035156
+baggage_train_rear_pos = 33.839262051677 131.03254971841 80.3500061035156
+this_parking_pos = 33.8390493740252 131.032629876262 -99.6499938964844
+
+[gate 5]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 3
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 60.0
+radiusleft = 30.0
+radiusright = 24.0
+loadertype = 3 3
+airlinecodes = 
+type = 9
+parkingsystem_objectposition = 33.8384657626734 131.03237184908 80.3500061035156 0
+parkingsystem_stopposition = 33.8384984368221 131.032605231647
+usercustomized = 1
+pushback_pos = 33.8383367288704 131.032432720094 -9.6499938964844
+baggage_loader_front_pos = 33.8387133603529 131.032545633687 130.350006103516
+baggage_train_front_pos = 33.8386019319878 131.032503613821 80.3500061035156
+baggage_train_rear_pos = 33.8386293515662 131.032503506259 80.3500061035156
+stairs_front_pos = 33.8382364528093 131.032520258881 37.0500061035156
+this_parking_pos = 33.838517169912 131.032737653353 -99.6499938964844
+
+[gate 6]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 3
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 60.0
+radiusleft = 30.0
+radiusright = 24.0
+loadertype = 3 3
+airlinecodes = 
+type = 9
+parkingsystem_objectposition = 33.8380205025347 131.032448773571 80.3500061035156 0
+parkingsystem_stopposition = 33.8380553828074 131.032697708939
+usercustomized = 1
+pushback_pos = 33.8378828356666 131.032474581523 -9.6499938964844
+baggage_loader_front_pos = 33.8383281624344 131.032596681477 130.350006103516
+baggage_loader_rear_pos = 33.8383072731724 131.032986173906 -144.649993896484
+baggage_train_front_pos = 33.8382242989272 131.032573771434 80.3500061035156
+baggage_train_rear_pos = 33.8382641616812 131.032571128494 80.3500061035156
+stairs_rear_pos = 33.8378490820751 131.033111262026 -54.6499938964844
+
+[gate 7]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 3
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 60.0
+radiusleft = 30.0
+radiusright = 24.0
+loadertype = 3 3
+airlinecodes = 
+type = 9
+pushback_pos = 33.8374410400312 131.032549695536 -9.6499938964844
+baggage_loader_front_pos = 33.837855667729 131.032533861353 80.3500061035156
+baggage_loader_rear_pos = 33.8379073771048 131.032523120522 80.3500061035156
+baggage_train_front_pos = 33.8377384375106 131.032686356839 80.3500061035156
+baggage_train_rear_pos = 33.8377861303618 131.032674447248 80.3500061035156
+this_parking_pos = 33.8376394349611 131.032981158303 -99.6499938964844
+parkingsystem_objectposition = 33.8375785067347 131.032548257121 80.3500061035156 0
+parkingsystem_stopposition = 33.8376115443513 131.032784184995
+usercustomized = 1
+
+[parking 1]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 0
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 20.0
+radiusleft = 10.0
+radiusright = 8.0
+loadertype = 3 3
+airlinecodes = 
+type = 2
+usercustomized = 1
+
+[parking 2]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 0
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 20.0
+radiusleft = 10.0
+radiusright = 8.0
+loadertype = 3 3
+airlinecodes = 
+type = 2
+usercustomized = 1
+
+[parking 3]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 0
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 20.0
+radiusleft = 10.0
+radiusright = 8.0
+loadertype = 3 3
+airlinecodes = 
+type = 2
+usercustomized = 1
+
+[parking 4]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 0
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 20.0
+radiusleft = 10.0
+radiusright = 8.0
+loadertype = 3 3
+airlinecodes = 
+type = 2
+usercustomized = 1
+
+[parking 5]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 0
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 20.0
+radiusleft = 10.0
+radiusright = 8.0
+loadertype = 3 3
+airlinecodes = 
+type = 2
+usercustomized = 1
+
+[parking 6]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 0
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 20.0
+radiusleft = 10.0
+radiusright = 8.0
+loadertype = 3 3
+airlinecodes = 
+type = 2
+usercustomized = 1
+
+[parking 7]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 0
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 20.0
+radiusleft = 10.0
+radiusright = 8.0
+loadertype = 3 3
+airlinecodes = 
+type = 2
+usercustomized = 1
+
+[parking 8]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 0
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 20.0
+radiusleft = 10.0
+radiusright = 8.0
+loadertype = 3 3
+airlinecodes = 
+type = 2
+usercustomized = 1
+
+[parking 9]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 0
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 20.0
+radiusleft = 10.0
+radiusright = 8.0
+loadertype = 3 3
+airlinecodes = 
+type = 2
+usercustomized = 1
+
+[parking 10]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 0
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 20.0
+radiusleft = 10.0
+radiusright = 8.0
+loadertype = 3 3
+airlinecodes = 
+type = 2
+usercustomized = 1
+
+[parking 11]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 0
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 20.0
+radiusleft = 10.0
+radiusright = 8.0
+loadertype = 3 3
+airlinecodes = 
+type = 2
+usercustomized = 1
+
+[parking 12]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 0
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 20.0
+radiusleft = 10.0
+radiusright = 8.0
+loadertype = 3 3
+airlinecodes = 
+type = 2
+usercustomized = 1
+
+[parking 13]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 0
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 20.0
+radiusleft = 10.0
+radiusright = 8.0
+loadertype = 3 3
+airlinecodes = 
+type = 2
+usercustomized = 1
+
+[parking 14]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 0
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 20.0
+radiusleft = 10.0
+radiusright = 8.0
+loadertype = 3 3
+airlinecodes = 
+type = 2
+usercustomized = 1
+
+[parking 15]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 0
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 30.0
+radiusleft = 15.0
+radiusright = 12.0
+loadertype = 3 3
+airlinecodes = 
+type = 2
+usercustomized = 1
+
+[parking 16]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 0
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 30.0
+radiusleft = 15.0
+radiusright = 12.0
+loadertype = 3 3
+airlinecodes = 
+type = 2
+usercustomized = 1
+
+[parking 17]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 0
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 30.0
+radiusleft = 15.0
+radiusright = 12.0
+loadertype = 3 3
+airlinecodes = 
+type = 2
+usercustomized = 1
+
+[parking 18]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 0
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 30.0
+radiusleft = 15.0
+radiusright = 12.0
+loadertype = 3 3
+airlinecodes = 
+type = 2
+usercustomized = 1
+
+[dock 1]
+nopassengerstairs = 0
+nopassengerbus = 0
+ignoreicaoprefixes = 0
+parkingsystem = 1
+hasjetway = 0
+pushback = 3
+pushbacklabels = Nose Right/Tail Left (LEFT)|Nose Left/Tail Right (RIGHT)
+maxwingspan = 60.0
+radiusleft = 30.0
+radiusright = 24.0
+loadertype = 3 3
+airlinecodes = 
+type = 11
+usercustomized = 1
