@@ -1,7 +1,7 @@
 # GSXAirportsSettingsJP
 
-2019/02/06  
-rev.14
+2019/11/17  
+rev.15
 
 ## Download / ダウンロード
 Go to <a href="https://github.com/SEN-SEI-SAN/GSXAirportsSettingsJP/releases">newest release tag</a> and download "GSXAirportsSettingsJP_rev**.zip"
@@ -99,16 +99,23 @@ If import without GSX Level 2, Only exclude jetway settings.
 <td>rev.5 Update (Finished only Terminal 1 and 2. Continue construction.)</td>
 </tr>
 <tr>
-<td>rjbb-bdo.ini</td>
-<td>Kansai Intl (RJBB)</td>
-<td>BDO Aviation Kansai Intl</td>
-<td><strong style="color:red">rev.14 New (Finished construction)</strong></td>
+<tr>
+  <td>rjbb-bdo.ini</td>
+  <td>Kansai Intl (RJBB)</td>
+  <td>BDO Aviation Kansai Intl</td>
+  <td>rev.14 New (Finished construction)</td>
 </tr>
 <tr>
-<td>rjoa-flyer.ini</td>
-<td>Hiroshima (RJOA)</td>
-<td>Flyer RJOA</td>
-<td>rev.5 New</td>
+  <td>rjoa-pacsim.ini</td>
+  <td>Hiroshima (RJOA)</td>
+  <td>Pacific Islands Simulation RJOA</td>
+  <td><strong style="color:red">rev.15 New</strong></td>
+</tr>
+<tr>
+  <td>rjoa-flyer.ini</td>
+  <td>Hiroshima (RJOA)</td>
+  <td>Flyer RJOA</td>
+  <td>rev.5 New</td>
 </tr>
 <tr>
 <td>rjom-msfg.ini</td>
@@ -254,16 +261,22 @@ FSDreamTeam GSXの空港駐機場ごとの設定ファイル集です。
 <td>rev.5 更新 (第一・第二ターミナル)</td>
 </tr>
 <tr>
-<td>rjbb-bdo.ini</td>
-<td>関西国際空港(RJBB)</td>
-<td>BDO Aviation Kansai Intl</td>
-<td><strong style="color:red">rev.14 New(完成)</strong></td>
+  <td>rjbb-bdo.ini</td>
+  <td>関西国際空港(RJBB)</td>
+  <td>BDO Aviation Kansai Intl</td>
+  <td>rev.14 New(完成)</td>
 </tr>
 <tr>
-<td>rjoa-flyer.ini</td>
-<td>広島空港(RJOA)</td>
-<td>Flyer RJOA</td>
-<td>rev.5 New</td>
+  <td>rjoa-flyer.ini</td>
+  <td>広島空港(RJOA)</td>
+  <td>Flyer RJOA</td>
+  <td>rev.5 New</td>
+</tr>
+<tr>
+  <td>rjoa-pacsim.ini</td>
+  <td>広島空港(RJOA)</td>
+  <td>Pacific Islands Simulation RJOA</td>
+  <td><strong style="color:red">rev.15 New</strong></td>
 </tr>
 <tr>
 <td>rjom-msfg.ini</td>
